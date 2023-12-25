@@ -2,4 +2,4 @@
 module:
       mounts:
       - source:           ftp
-        target:           content
+        target:           content/ftp
